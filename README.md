@@ -1,5 +1,7 @@
 # imagem-node-express-mysql
 
-docker-compose
+**docker-compose**
 
-nodejs + express + mysql
+nodejs + express + mysq
+
+
